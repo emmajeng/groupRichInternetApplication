@@ -1,0 +1,58 @@
+.jumbotron{
+   /*
+    jumbotron styling 
+   */
+    color :white !important;
+    background-color:#18314f;
+    /*
+    margin to center the jumbotron fam
+    */
+    
+    margin-bottom: 30px;
+    margin-left: 32px;
+    margin-right: 32px;
+	border-radius: 15px;
+    
+}
+.container{
+
+    color : blueviolet !important;
+
+   
+    
+}
+
+body{
+    /** padding for top of page **/
+    
+    background-color: #0d0630;
+}
+/* could not change nav bar color but thank to - http://stackoverflow.com/questions/18529274/change-navbar-color-in-twitter-bootstrap-3   i could by setting image */
+.navbar{
+    background-color: #0d0630;
+    background-image: none;
+	border-color: transparent;
+    
+}
+/*code form http://stackoverflow.com/questions/10560786/changing-color-of-twitter-bootstrap-nav-pills*/
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus{
+
+	background-color: #18314f;
+	margin-right: 16px;
+	margin-top: 20px
+}
+
+footer{
+ 
+
+}
+h2{
+    text-align: center;
+    color: white;
+}
+p{
+    text-align: center;
+    color: white;
+}
+
+

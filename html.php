@@ -35,7 +35,7 @@
     <nav class="navbar navbar-default" role="navigation">
         <div class="container-fluid">
             <ul class="nav nav-pills pull-left"> 
-            <li role="presentation" class="active" onclick="return confirm('Are you sure you want to logout?')"><a href="#">Back</a></li>
+            <li role="presentation" class="active"><a href="index.php">Back</a></li>
           </ul> 
         </div>
    </nav>
@@ -43,8 +43,8 @@
      
       <div id="container">
           <div class ="jumbotron">
-			<h1 class="text-center">Welcome!</h1>
-				<img src="img/welcome.png" alt="Random quiz logo I found online" align="middle">
+			<h1 class="text-center">Welcome to the HTML resource page</h1>
+				<img src="img/welcome.png" alt="Random quiz logo I found online" align="center">
               <p> 
 				We is going to talking about HTML bitches. Better buckle up because this is going to be some mad shit.
               </p>
